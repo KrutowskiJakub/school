@@ -1,0 +1,23 @@
+1.Typy zmiennych:
+* void, 
+* logiczne,
+* całkowite, 
+* zmiennoprzecinkowe.
+
+2. Przy typie zemiennej INT komputer zarezerwuje przynajmniej 4 bajty, czyli 32 bity.
+
+3. Modyfikatory typu INT:
+* short,
+* long,
+* sined,
+* unsined.
+
+RETURN
+
+4. Etapy tworzenia programu komputerowego:
+* zdefiniowanie problemu do rozwiązania,
+* planowanie rozwiązania,
+* kodowanie programu,
+* testownie programu,
+* dokumentacja programu,
+* onserwacja.
