@@ -30,7 +30,7 @@ class Worker{
 	 	switch(gender){
 	 		
 	 		case 'm':
-	 			genderDescripton = "Mê¿czyzna";
+	 			genderDescripton = "MÃªÂ¿czyzna";
 	 			
 	 			break;
 	 			
@@ -44,7 +44,7 @@ class Worker{
 		 }
 		 
 		 cout << "Imie i Nazwisko: " << name << " " << surname << "\n\n"
-		 << "Narodowoœæ: " << nationality << ", data urudzenia: " << yearBirthday << "\nwzrost" << height << ", p³eæ: " << genderDescripton;
+		 << "NarodowoÅ“Ã¦: " << nationality << ", data urudzenia: " << yearBirthday << "\nwzrost" << height << ", pÂ³eÃ¦: " << genderDescripton;
 		 
 	};
 
